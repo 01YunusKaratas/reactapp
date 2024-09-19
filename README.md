@@ -9,7 +9,7 @@ npx create-react-app react-app
 cd react-app
 npm start
 ```
-create-react-app Komutunun Açıklaması
-npx create-react-app react-app: Yeni bir React projesi oluşturur.
-cd react-app: Proje dizinine geçiş yapar.
-npm start: Projeyi başlatır ve geliştirme sunucusunu çalıştırır.
+-create-react-app Komutunun Açıklaması
+-npx create-react-app react-app: Yeni bir React projesi oluşturur.
+-cd react-app: Proje dizinine geçiş yapar.
+-npm start: Projeyi başlatır ve geliştirme sunucusunu çalıştırır.
